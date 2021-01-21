@@ -1,0 +1,24 @@
+name: py27
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2020.7.22=0
+  - certifi=2019.11.28=py27_0
+  - pip=19.3.1=py27_0
+  - python=2.7.18=hfb89ab9_0
+  - setuptools=44.0.0=py27_0
+  - sqlite=3.30.1=h0c8e037_0
+  - vc=9=h7299396_1
+  - vs2008_runtime=9.00.30729.1=hfaea7d5_1
+  - wheel=0.35.1=py_0
+  - wincertstore=0.2=py27hf04cefb_0
+  - pip:
+    - backports-range==3.7.2
+    - cffi==1.14.4
+    - future==0.18.2
+    - pycparser==2.20
+    - pycryptodome==3.9.8
+    - pycryptodomex==3.9.8
+    - python2-secrets==1.0.5
+    - xxhash-cffi==1.3.0
+prefix: C:\Users\clane\miniconda3\envs\py27
